@@ -1,0 +1,2 @@
+I am taking this class to further my skills and introduce myself to analytics engineering.
+It is wonderful to work in a unix/linux environment again!
